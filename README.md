@@ -1,7 +1,7 @@
 ### Hi there 👋, I’m SilentE
 
 - ⚡ I’m insterested in CTF-Web, as a team member in Merak & Dubhe.
-- 🌱 I’m currently learning nothing :<.
+- 🌱 I’m currently learning AVBypass :).
 - 🎀 Love ACGN and kinds of games.
 - 📝 I regularly write tech articles on my [note book](https://note.silente.dev).
 - 💬 Ask me about `CTF-Web` and `Rust`.
